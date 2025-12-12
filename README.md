@@ -1,7 +1,3 @@
-Sure thing, Saurav! Here’s a polished, GitHub-ready **project description** you can paste directly into your repository:
-
----
-
 # 🚀 Flask OpenRouter GPT Chat App
 
 A lightweight and beginner-friendly **Flask application** that connects to the **OpenRouter API** for generating GPT-powered responses. This project demonstrates how to send prompts from a simple HTML form, process them on a Flask backend, and display real-time AI-generated replies in a clean UI.
