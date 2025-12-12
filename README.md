@@ -57,7 +57,3 @@ You can easily modify:
 * Prompt structure
 * UI design
 * Add streaming, conversation history, or authentication
-
----
-
-If you want, I can also format this as a `README.md` with badges, installation steps, screenshots, or a demo section.
